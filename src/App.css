@@ -1,0 +1,39 @@
+.alert{
+    
+    animation: fadeOut  10s;
+  animation-duration:10s;animation-duration: 10s;
+            animation-fill-mode: both;
+            animation-fill-mode: both;
+}
+    @keyframes fadeOut {
+        0% {opacity: 1;}
+        100% {opacity: 0;}
+     }
+
+
+
+.cat{
+
+    text-align: center;
+    
+}
+
+
+.NavBar
+{
+
+color: rgb(255, 255, 255) !important;
+}
+
+.nav-link {
+    
+    color: azure !important;
+
+
+}
+
+.hello {
+
+    display: inline;
+    padding-top: 7px;
+}
