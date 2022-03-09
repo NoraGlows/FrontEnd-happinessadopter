@@ -4,12 +4,6 @@ Our website aims to give a place to the pets whom their owners can't take care o
 # Back-end Repository
 [Happiness Adopter](https://github.com/NoraGlows/BackEnd-happinessadopter.git)
 
-# Our Website links
-[Deployed API](http://happinessadopter-env.eba-up79mz9d.us-east-2.elasticbeanstalk.com/)
-
-[Deployed Client]()
-
-
 
 # Technologies
  - React
